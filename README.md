@@ -12,6 +12,6 @@
 
 **3)** A submissão do seu código tem que ser antes do encerramento do desafio no repositório correto.
 
-**4)** O vencedor é a pessoa que desenvolver um código que cumpra o desafio. Este desafio pode ser: menor quantidade de bytes, somente a conclusão do desafio ou a lógica mais complexa (por diversão mesmo).
+**4)** O vencedor é a pessoa que desenvolver um código que cumpra o desafio com a menor quantidade de bytes.
 
 **5)** Em caso de empate, quem cumprir o desafio com mais rapidez leva vantagem no ranking.
